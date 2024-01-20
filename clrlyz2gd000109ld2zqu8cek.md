@@ -4,7 +4,7 @@ datePublished: Sat Jan 20 2024 11:11:41 GMT+0000 (Coordinated Universal Time)
 cuid: clrlyz2gd000109ld2zqu8cek
 slug: building-prepush
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705749478288/f9172af5-06ee-4683-8fb8-62f5283883ae.png
-tags: development, github-actions
+tags: cicd, github-actions
 
 ---
 
